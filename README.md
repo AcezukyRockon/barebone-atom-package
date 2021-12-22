@@ -32,6 +32,7 @@ Publish your package to atom site:
 6. Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
 7. Congrats!
 [](https://i.imgur.com/gJ4KcxA.png)
+[](https://i.imgur.com/ZiCU86o.png)
 
 Uninstall package:
 - Via Atom: File > Settings > Packages > Search "barebone-atom-package" > Uninstall
