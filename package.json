@@ -1,5 +1,5 @@
 {
-  "name": "barebone",
+  "name": "barebone-atom-package",
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "",
