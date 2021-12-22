@@ -8,7 +8,7 @@ Install package:
 
 Edit and run instruction:
 1. It's recommended to uninstall this package first before making any edit.
-2. Go to C:\Users\<username>\github and clone this repository
+2. Go to C:\Users\<username>\.atom\packages and clone this repository
 3. Reload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run "barebone:Owo" > see "Owo" in the devtool console
 4. Make some edits
 5. Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Window Reload
