@@ -28,8 +28,9 @@ Publish your package to atom site:
 2. Open command line, go to your package folder
 3. You may need to connect with your atom account via apm command
 4. Change git local user (remove --global tag): https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal
-5. Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
-6. Congrats!
+5. Type: git tag
+6. Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
+7. Congrats!
 
 ![](https://i.imgur.com/gJ4KcxA.png)
 ![](https://i.imgur.com/ZiCU86o.png)
