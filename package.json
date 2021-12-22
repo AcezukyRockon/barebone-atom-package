@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "barebone:owo"
   },
-  "repository": "https://github.com/AcezukyRockon/op-nhom1demo",
+  "repository": "https://github.com/AcezukyRockon/barebone-atom-package",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
