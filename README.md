@@ -37,7 +37,3 @@ Publish your package to atom site:
 Uninstall package:
 - Via Atom: File > Settings > Packages > Search "barebone-atom-package" > Uninstall
 - Via apm command: apm uninstall barebone-atom-package
-
-Tags and versions:
-- v0.0.2: remove subscriptions
-- v0.0.1: Initial barebone
