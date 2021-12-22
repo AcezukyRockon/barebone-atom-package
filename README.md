@@ -4,12 +4,11 @@ Install package:
 - Via website: https://atom.io/packages/barebone-atom-package
 - Via Atom: File > Settings > Install > Search "barebone-atom-package" > Install
 - Via apm command: apm install barebone-atom-package
-- Check if package is installed: try to run package in step 3 "Edit and run instruction"
 
 Edit and run instruction:
 1. It's recommended to uninstall this package first before making any edit.
-2. Go to C:\Users\<username>\.atom\packages and clone this repository
-3. Reload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run "barebone:Owo" > see "Owo" in the devtool console
+2. Go to `C:\Users\<username>\.atom\packages` and clone this repository
+3. Reload Atom and try to use package: `Ctrl+Shift+I` to open devtool > `Ctrl+Shift+P` > Type and run `barebone:Owo` > see `Owo` in the devtool console
 4. Make some edits
 5. Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Window Reload
 6. See result
@@ -38,3 +37,7 @@ Publish your package to atom site:
 Uninstall package:
 - Via Atom: File > Settings > Packages > Search "barebone-atom-package" > Uninstall
 - Via apm command: apm uninstall barebone-atom-package
+
+Tags and versions:
+- v0.0.2: remove subscriptions
+- v0.0.1: Initial barebone
