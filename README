@@ -25,8 +25,8 @@ Push to Github and update package, in command line, type following:
 
 Publish your package to atom site:
 1. Make sure you have requirements for publishing a package (package.json and git tag): https://flight-manual.atom.io/hacking-atom/sections/publishing/
-2. Add apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows/41353271
-3. Open command line, go to your package folder
+2. Open command line, go to your package folder
+3. You may need to connect with your atom account via apm command
 4. Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
 
 Uninstall package:
