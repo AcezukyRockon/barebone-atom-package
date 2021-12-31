@@ -1,5 +1,8 @@
 To use apm command, follow this to add apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows/41353271
 
+Wanna see Coffee script version? Go [here](https://github.com/AcezukyRockon/barebone-atom-package-coffee)
+
+
 Install package:
 - Via website: https://atom.io/packages/barebone-atom-package
 - Via Atom: File > Settings > Install > Search "barebone-atom-package" > Install
@@ -8,7 +11,7 @@ Install package:
 Edit and run instruction:
 1. It's recommended to uninstall this package first before making any edit.
 2. Go to `C:\Users\<username>\.atom\packages` and clone this repository
-3. Reload Atom and try to use package: `Ctrl+Shift+I` to open devtool > `Ctrl+Shift+P` > Type and run `barebone:Owo` > see `Owo` in the devtool console
+3. Reload Atom and try to use package: `Ctrl+Shift+I` to open devtool > `Ctrl+Shift+P` > Type and run `Barebone: Owo` > see `Owo` in the devtool console
 4. Make some edits
 5. Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Window Reload
 6. See result
